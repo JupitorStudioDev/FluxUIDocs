@@ -291,6 +291,7 @@ Prop |  Description
 ---|---  
 checked  |  If true, the radio button is selected by default.  
 disabled  |  If true, prevents interaction with the radio button.  
+
 Attribute |  Description  
 ---|---  
 data-active  |  Applied when the radio button is hovered/active.  

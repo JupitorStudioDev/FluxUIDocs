@@ -507,6 +507,7 @@ badge:position  |  Position of the badge. Options: top left, top right, bottom l
 badge:variant  |  Variant of the badge. Options: solid, outline. Default: solid.  
 as  |  Element to render the avatar as. Options: button, div (default).  
 href  |  URL to link to, making the avatar a link element.  
+
 Slot |  Description  
 ---|---  
 default  |  Custom content to display inside the avatar. Will override initials if provided.  
@@ -515,6 +516,7 @@ badge  |  Custom content to display in the badge (for more complex badge content
 Prop |  Description  
 ---|---  
 class  |  CSS classes to apply to the group, including customizing ring colors using *:ring-{color} format.  
+
 Slot |  Description  
 ---|---  
 default  |  Place multiple flux:avatar components here to display them as a group.  

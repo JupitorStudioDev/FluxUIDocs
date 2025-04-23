@@ -151,7 +151,15 @@ duration  |  Duration in milliseconds. Use 0 for permanent toasts. Default: 5000
 ###  [$flux.toast()](https://fluxui.dev/components/toast#fluxtoast)
 The Alpine.js magic method used to trigger toasts from Alpine components. It can be used in two ways:
 ```
-// Simple usage with just a message...$flux.toast('Your changes have been saved')// Advanced usage with full configuration...$flux.toast({  heading: 'Success!',  text: 'Your changes have been saved',  variant: 'success',  duration: 3000})
+// Simple usage with just a message...
+$flux.toast('Your changes have been saved')
+// Advanced usage with full configuration...
+$flux.toast({
+    heading: 'Success!',
+    text: 'Your changes have been saved',
+    variant: 'success',
+    duration: 3000
+})
 ```
 
 Parameter |  Description  

@@ -289,6 +289,7 @@ color  |  Custom color (e.g., red, blue). [View available Tailwind colors ->](ht
 inline  |  If true, actions appear inline. Default: false.  
 heading  |  Shorthand for flux:callout.heading.  
 text  |  Shorthand for flux:callout.text.  
+
 Slot |  Description  
 ---|---  
 icon  |  Custom icon displayed next to the heading.  
@@ -299,6 +300,7 @@ Prop |  Description
 ---|---  
 icon  |  Moves the icon inside the heading instead of the callout root.  
 icon:variant  |  Variant of the icon displayed next to the heading (e.g., outline). [Explore icon variants](https://fluxui.dev/components/icon#variants)  
+
 Slot |  Description  
 ---|---  
 icon  |  Custom icon displayed next to the heading.  

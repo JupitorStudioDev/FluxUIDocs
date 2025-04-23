@@ -627,6 +627,7 @@ locale  |  Set the locale for the date picker. Examples: fr, en-US, ja-JP.
 Slot |  Description  
 ---|---  
 trigger  |  Custom trigger element to open the date picker. Usually a flux:date-picker.input or flux:date-picker.button.  
+
 Attribute |  Description  
 ---|---  
 data-flux-date-picker  |  Applied to the root element for styling and identification.  
@@ -656,6 +657,7 @@ $range->end()  |  Get the end date as a Carbon instance.
 $range->days()  |  Get the number of days in the range.  
 $range->preset()  |  Get the current preset as a DateRangePreset enum value.  
 $range->toArray()  |  Get the range as an array with start and end keys.  
+
 Static Method |  Description  
 ---|---  
 DateRange::today()  |  Create a DateRange for today.  

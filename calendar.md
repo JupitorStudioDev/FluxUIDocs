@@ -482,6 +482,7 @@ selectable-header  |  If true, displays month and year dropdowns for quick navig
 with-today  |  If true, displays a button to quickly navigate to today's date. Default: false.  
 with-inputs  |  If true, displays date inputs at the top of the calendar for manual date entry. Default: false.  
 locale  |  Set the locale for the calendar. Examples: fr, en-US, ja-JP.  
+
 Attribute |  Description  
 ---|---  
 data-flux-calendar  |  Applied to the root element for styling and identification.  
@@ -496,6 +497,7 @@ $range->contains(date)  |  Check if the range contains a specific date.
 $range->length()  |  Get the length of the range in days.  
 $range->toArray()  |  Get the range as an array with start and end keys.  
 $range->preset()  |  Get the current preset as a DateRangePreset enum value, if any.  
+
 Static Method |  Description  
 ---|---  
 DateRange::today()  |  Create a DateRange for today.  

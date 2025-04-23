@@ -111,9 +111,11 @@ Delete
 Slot |  Description  
 ---|---  
 default  |  Content to display within the card. Can include headings, text, forms, buttons, and other components.  
+
 CSS |  Description  
 ---|---  
 class  |  Additional CSS classes applied to the card. Common uses: space-y-6 for spacing between child elements, max-w-md for width control, p-0 to remove padding.  
+
 Attribute |  Description  
 ---|---  
 data-flux-card  |  Applied to the root element for styling and identification.  

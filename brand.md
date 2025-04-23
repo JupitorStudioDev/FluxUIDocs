@@ -64,6 +64,7 @@ name  |  Company or application name to display next to the logo.
 logo  |  URL to the image to display as logo, or can pass content via slot.  
 alt  |  Alternative text for the logo.  
 href  |  URL to navigate to when the brand is clicked. Default: '/'.  
+
 Slot |  Description  
 ---|---  
 logo  |  Custom content for the logo section, typically containing an image, SVG, or custom HTML.  
