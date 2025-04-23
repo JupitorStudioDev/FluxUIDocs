@@ -5,7 +5,7 @@ Flux is a robust, hand-crafted UI component library for [Livewire](https://livew
 You can view the components in action at [https://fluxui.dev](https://fluxui.dev).
 
 
-## All documentation for all complonents including Pro versions.
+## All documentation for all components, including Pro versions.
 This documentation is unofficial, but pulled right from the FluxUI.dev website.
 
 I created this for a personal project for https://context7.com/
